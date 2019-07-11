@@ -1,0 +1,772 @@
+Package: hlstlp
+Architecture: amd64
+Version: 0.0.20200605.1
+Priority: optional
+Section: devel
+Maintainer: Blaok Chi
+Installed-Size: 30075
+Depends: clang, iverilog, libgoogle-glog-dev, libboost-coroutine-dev (>= 1.59)
+Filename: pool/main/focal/hlstlp_0.0.20200605.1_amd64.deb
+Size: 10942354
+MD5sum: ad9d3f3887e2d329f1e373c25ebaffa4
+SHA1: 1592c1cc7d75f05252d7df9804f671db74ffdbd1
+SHA256: 82b271f0e82a576241cb0fde073a132bd9fcc71f3ea7d23b6aabdf792eac8bb1
+SHA512: 56c6a64725a0ffb0229175a07977e1fbd7a1519764844e587e20f719c03b5e4411203234594ae272d7cfe0d66c77b2245b026620b855748c8e3ef9438dc65769
+Description: High-Level Synthesis Task-Level Parallelization
+
+Package: hlstlp
+Architecture: amd64
+Version: 0.0.20200606.1
+Priority: optional
+Section: devel
+Maintainer: Blaok Chi
+Installed-Size: 30076
+Depends: clang, iverilog, libgoogle-glog-dev, libboost-coroutine-dev (>= 1.59)
+Filename: pool/main/focal/hlstlp_0.0.20200606.1_amd64.deb
+Size: 10942626
+MD5sum: f2f04b315c7e64d85ef86d857aa012cf
+SHA1: 03f12e4892e5c9b03b40c2c0818c6977755c8fac
+SHA256: d3694e575fad8b439a8de2974364e9f478b31143165a823c0662c11ad66b1e23
+SHA512: 83450397e9320ea4b04b6bf8557009363d3d6259453671d57fcc61719f2dfac360ff7555c518d33c79bc8116a0de9157293c79be34b2200e72c519723ff81a24
+Description: High-Level Synthesis Task-Level Parallelization
+
+Package: hlstlp
+Architecture: amd64
+Version: 0.0.20200606.2
+Priority: optional
+Section: devel
+Maintainer: Blaok Chi
+Installed-Size: 30076
+Depends: clang, iverilog, libgoogle-glog-dev, libboost-coroutine-dev (>= 1.59)
+Filename: pool/main/focal/hlstlp_0.0.20200606.2_amd64.deb
+Size: 10942644
+MD5sum: b936c6bb8c328dc2fe7728f34b175f39
+SHA1: bd196e5a657e3dd1d899a084c0a41bd7388013d5
+SHA256: 9da05ba1b7603490091b42b919e3e3eedf865eb812e9a4a797d22ef3b6a84c8b
+SHA512: 4a29dae43b30d305d13d42f848453efb03f12bee4a2da0260b7001f044ff2adb11bf02748987b2aacd72bbef59e793c60d4eef53c61fa8a4ecd792ad8989fe7d
+Description: High-Level Synthesis Task-Level Parallelization
+
+Package: hlstlp
+Architecture: amd64
+Version: 0.0.20200606.3
+Priority: optional
+Section: devel
+Maintainer: Blaok Chi
+Installed-Size: 30076
+Depends: clang, iverilog, libgoogle-glog-dev, libboost-coroutine-dev (>= 1.59)
+Filename: pool/main/focal/hlstlp_0.0.20200606.3_amd64.deb
+Size: 10942632
+MD5sum: e5991e280312e909dc669c3849f20a02
+SHA1: b9f0aff899c7bf4676db3e1304566fc51d5e0145
+SHA256: a60efb78454c4a1a2c23cdabaf585a57d556519ba58132a3de82ee4579cb93eb
+SHA512: 22f669aac637f5a44a66a404f507dd5d5ece92ddedc563d5cde90a1d8602747df1ef79d9595459f2d8a4665211fec3ba29bc59066f962e7ad7209e984545c451
+Description: High-Level Synthesis Task-Level Parallelization
+
+Package: hlstlp
+Architecture: amd64
+Version: 0.0.20200606.4
+Priority: optional
+Section: devel
+Maintainer: Blaok Chi
+Installed-Size: 30076
+Depends: clang, iverilog, libgoogle-glog-dev, libboost-coroutine-dev (>= 1.59)
+Filename: pool/main/focal/hlstlp_0.0.20200606.4_amd64.deb
+Size: 10942618
+MD5sum: 8b75937597c58ae94bb5639dd83450b1
+SHA1: 96ee3cd5b42684a98d72707f4028e29dc5758fee
+SHA256: 528d835f9c2aa84d8cfeabfd4d7e509ae1933d43158475f5374cc19c1397e4ea
+SHA512: bf0a4523ba89efc5b3bdfb90a9fded2e5b34c9727926be859da9725aecbd42884b7629029c9b7e3df2d625750b45628cf746322bb669f46fb682d08544223582
+Description: High-Level Synthesis Task-Level Parallelization
+
+Package: hlstlp
+Architecture: amd64
+Version: 0.0.20200612.1
+Priority: optional
+Section: devel
+Maintainer: Blaok Chi
+Installed-Size: 30080
+Depends: clang, iverilog, libgoogle-glog-dev, libboost-coroutine-dev (>= 1.59)
+Filename: pool/main/focal/hlstlp_0.0.20200612.1_amd64.deb
+Size: 10943344
+MD5sum: 4ed98cb35656b18fd28b004f0db10240
+SHA1: 3f9534792490f44d46cab57db332d95394b557e4
+SHA256: c7d767521933de8a102861b3cf6eb503ce90caac3f899e2cb9137b382602fc0b
+SHA512: 5b93c3998baf3b24fc0c615de4263ea761b34d11f603c948305f581027bee0e0038c6d3366398963a9f6e3aef38a2a9e5179d0c16c7cba65a8f9aea626b483db
+Description: High-Level Synthesis Task-Level Parallelization
+
+Package: hlstlp
+Architecture: amd64
+Version: 0.0.20200711.1
+Priority: optional
+Section: devel
+Maintainer: Blaok Chi
+Installed-Size: 30088
+Depends: clang, iverilog, libgoogle-glog-dev, libboost-coroutine-dev (>= 1.59)
+Recommends: libfrt-dev
+Filename: pool/main/focal/hlstlp_0.0.20200711.1_amd64.deb
+Size: 10946208
+MD5sum: 5636984f3a24f00f838fe57983ee47de
+SHA1: 68f243cfa9d5dd4ba352b346617a8599491dbd78
+SHA256: 7ad368c0244e3ec9ba0bf3e4ada2597ab01ac21533cefabfd903c03261cddaf1
+SHA512: a521657993256567c8717c7b0abdbdb5d6046ddaeafe479b1bd11c818d9de72fe49964371c5be15d1d00f26f200e4a55ef2511e8e9d299721583e9d01637bf67
+Description: High-Level Synthesis Task-Level Parallelization
+
+Package: hlstlp
+Architecture: amd64
+Version: 0.0.20200716.1
+Priority: optional
+Section: devel
+Maintainer: Blaok Chi
+Installed-Size: 30088
+Depends: clang-8, iverilog, libgoogle-glog-dev, libboost-coroutine-dev (>= 1.59)
+Recommends: libfrt-dev
+Filename: pool/main/focal/hlstlp_0.0.20200716.1_amd64.deb
+Size: 10946242
+MD5sum: 15ee4446223d1ffd5463d86152228506
+SHA1: 025bbb3254ada5dbeb813436c7848d490a6b5436
+SHA256: 412f0e86f6f36e0a0934230000b0762a5a4a9c9a6afa27085cfa64f537b36ce4
+SHA512: 237995b36f464e0e42595581a05e9d995cfed4cc2964bbf4ef626f347cf70b29032ba48f7bda85b764633c8a5161e9fb4cd246abd6145145a36e032186fc6692
+Description: High-Level Synthesis Task-Level Parallelization
+
+Package: tapa
+Architecture: amd64
+Version: 0.0.20200808.1
+Priority: optional
+Section: devel
+Maintainer: Blaok Chi
+Installed-Size: 30088
+Depends: clang-8, iverilog, libgoogle-glog-dev, libboost-coroutine-dev (>= 1.59)
+Recommends: libfrt-dev
+Filename: pool/main/focal/tapa_0.0.20200808.1_amd64.deb
+Size: 10947796
+MD5sum: 4feac4e911b8ab8e931d3f1821db7696
+SHA1: 98d5f84322908962a3121fde5534010c571ee3f6
+SHA256: c4b9a7503dbe66dc62348f5af86e3aadc54abf7feeda01bb9bac1d66b023759c
+SHA512: 689e2537fc2f72ce32102653a40c22c0803767b5a516ad0bbc083094f02ca4bda47e709eef8922effe9ab3e38ccb022b4259a591faddb5c2711461f4283efdf4
+Description: Task-Parallel High-Level Synthesis
+
+Package: tapa
+Architecture: amd64
+Version: 0.0.20200823.1
+Priority: optional
+Section: devel
+Maintainer: Blaok Chi
+Installed-Size: 30097
+Depends: clang-8, iverilog, libgoogle-glog-dev, libboost-coroutine-dev (>= 1.59)
+Recommends: libfrt-dev
+Filename: pool/main/focal/tapa_0.0.20200823.1_amd64.deb
+Size: 10949176
+MD5sum: accb8be0d460fb834d10148875b86c37
+SHA1: 653d3f9ad947b40fb7abaeb0c8c116343b653915
+SHA256: 47ea7a886ef6f317aaeee7f01d612c3b0a9e2449075d0fd9411017ee936298fd
+SHA512: 2b78c33daff530f713f6cbe44f6966b96cb878954504334bd776182467d06ab9ced5077441e939720bf6ca98608e4389e035aed5cf3a51b18b50ef5dfb0db332
+Description: Task-Parallel High-Level Synthesis
+
+Package: tapa
+Architecture: amd64
+Version: 0.0.20201124.1
+Priority: optional
+Section: devel
+Maintainer: Blaok Chi
+Installed-Size: 30053
+Depends: clang-8, iverilog, libgoogle-glog-dev
+Recommends: libfrt-dev
+Filename: pool/main/focal/tapa_0.0.20201124.1_amd64.deb
+Size: 10934258
+MD5sum: 09fec69eee7e4f93dbafca5fb951e5e4
+SHA1: 12031fe36ffbb18dfb4c53e2b2a42c8127c58815
+SHA256: d94123fad8289dbe536147208ca916a938a25ad6cee6dc4c210334856f340346
+SHA512: 2a8ceb440f76a871b9fb3c55d0949f0def7fac23d2143d5afb461e442bdccc46aee001460a4e9334798135e6611d67e527bb8b91682b34b4b6d863f3373c7e27
+Description: Task-Parallel High-Level Synthesis
+
+Package: tapa
+Architecture: amd64
+Version: 0.0.20201128.1
+Priority: optional
+Section: devel
+Maintainer: Blaok Chi
+Installed-Size: 30181
+Depends: clang-8, iverilog, libgoogle-glog-dev, libboost-coroutine-dev (>= 1.59)
+Recommends: libfrt-dev
+Filename: pool/main/focal/tapa_0.0.20201128.1_amd64.deb
+Size: 10993524
+MD5sum: dba8c21918ef12d4b46259d93dc4bae0
+SHA1: 28bfd1949d5415ec79cd8daa69150ed633383e71
+SHA256: 41f1da92a239ed43791e1e1a680f606cbbe6c1cbbe241814184fa66e0bef5eff
+SHA512: 60e2aa8f66610bc86e55a32e644199cb51b245aa7339d5447484ace04523971a9426b5ec5474ce9e0c5eab5d40f395fe8d171bb851f0e805080227471c3f4bde
+Description: Task-Parallel High-Level Synthesis
+
+Package: tapa
+Architecture: amd64
+Version: 0.0.20201128.2
+Priority: optional
+Section: devel
+Maintainer: Blaok Chi
+Installed-Size: 30181
+Depends: clang-8, iverilog, libgoogle-glog-dev, libboost-coroutine-dev (>= 1.59), libboost-stacktrace-dev
+Recommends: libfrt-dev
+Filename: pool/main/focal/tapa_0.0.20201128.2_amd64.deb
+Size: 10993532
+MD5sum: 09ddab048e2bb72cd3865cc638b3cdfb
+SHA1: 69f91c577d0104018e05fa186a4b103aa7a6357a
+SHA256: 18f9a3204b05cddc882082b76754d23a95ddef28375d105df518b1b3aa1b3c80
+SHA512: ac67518d57a1050771f11e947c1e3a3c19a93f7c16a00422dc7add8f09b4b4078beccb79fc29873c11ae79290499ca820976e461a9a33f6449e34dfd4c088177
+Description: Task-Parallel High-Level Synthesis
+
+Package: tapa
+Architecture: amd64
+Version: 0.0.20201203.1
+Priority: optional
+Section: devel
+Maintainer: Blaok Chi
+Installed-Size: 30173
+Depends: clang-8, iverilog, libgoogle-glog-dev, libboost-coroutine-dev (>= 1.59), libboost-stacktrace-dev
+Recommends: libfrt-dev
+Filename: pool/main/focal/tapa_0.0.20201203.1_amd64.deb
+Size: 10989328
+MD5sum: d7d11a17a0969fb6768f55b72bb02030
+SHA1: d282b7e4c582522307c91379b10b0ca6af0c585b
+SHA256: ee0cb80367fa24a638ab3762e7b17b24722a67ce452835d5e9f205b2d5ccbfa4
+SHA512: 84bb2f74fd1c666fcf75f1a62494a97ed47df1e3619c057eef49b3f38a39a17b5689789c4cefee3be2157d5ebecf1ecfd342fc71066dfe5797f93443138b5e84
+Description: Task-Parallel High-Level Synthesis
+
+Package: tapa
+Architecture: amd64
+Version: 0.0.20201203.3
+Priority: optional
+Section: devel
+Maintainer: Blaok Chi
+Installed-Size: 30173
+Depends: clang-8, g++, iverilog, libgoogle-glog-dev, libboost-coroutine-dev (>= 1.59), libboost-stacktrace-dev
+Recommends: libfrt-dev
+Filename: pool/main/focal/tapa_0.0.20201203.3_amd64.deb
+Size: 10989328
+MD5sum: 529adda11f35e8a2815ae8f797ee6e51
+SHA1: 4f733e4d0ce3b898071b122738f44d27d5d816fb
+SHA256: 483a2126f4f1f54fd2501ff71005fe66478c04cefe6adcb69139040c6ebbb49c
+SHA512: cc7fae7a4cf19a123665010114bb507f7549603cce34afa1567615324a51ffd945a8312ec5381cabc7c09c4ecd9622637b2799635afc027bdd3d194c027a94e3
+Description: Task-Parallel High-Level Synthesis
+
+Package: tapa
+Architecture: amd64
+Version: 0.0.20201203.4
+Priority: optional
+Section: devel
+Maintainer: Blaok Chi
+Installed-Size: 30177
+Depends: clang-8, g++, iverilog, libgoogle-glog-dev, libboost-coroutine-dev (>= 1.59), libboost-stacktrace-dev
+Recommends: libfrt-dev
+Filename: pool/main/focal/tapa_0.0.20201203.4_amd64.deb
+Size: 10990420
+MD5sum: 8113837a43fdd3b186e5565d51f7212b
+SHA1: c8de36ac0f4ac5cfc942de77312b7f0a94978a67
+SHA256: 7e814cd4a4e9064067ef017e18b55e17ec8b3ba2b2f5ac119b944b52efe93e63
+SHA512: 5478322302cc20024d9f9ac5be7a7921bb7af7238a57b82a9639dbb4adcfda8096e50e304815b154245fdaef2601074938dc17b8810c4ac514e6ee38ec762787
+Description: Task-Parallel High-Level Synthesis
+
+Package: tapa
+Architecture: amd64
+Version: 0.0.20201207.1
+Priority: optional
+Section: devel
+Maintainer: Blaok Chi
+Installed-Size: 30182
+Depends: clang-8, g++, iverilog, libgoogle-glog-dev, libboost-coroutine-dev (>= 1.59), libboost-stacktrace-dev
+Recommends: libfrt-dev
+Filename: pool/main/focal/tapa_0.0.20201207.1_amd64.deb
+Size: 10990954
+MD5sum: c33e5cf552005934440e9c4e1891a0a9
+SHA1: 236b2618ea1bc354863c4a0a80121f60964be835
+SHA256: 8c51e1232147b58fb059754fc245a9512c1063f40e0bef72e3cc6d5672fce735
+SHA512: 0d62a1438d7d4efdf1b4b94901fcc1e0c3abfd43490a1485e20d3c6815f4a9bac21639d3bac8f60bdeffab44623b9ccd99738e9e93da99d8dcfd74d34da4f51a
+Description: Task-Parallel High-Level Synthesis
+
+Package: tapa
+Architecture: amd64
+Version: 0.0.20201231.1
+Priority: optional
+Section: devel
+Maintainer: Blaok Chi
+Installed-Size: 30181
+Depends: clang-8, g++, iverilog, libgoogle-glog-dev, libboost-coroutine-dev (>= 1.59), libboost-stacktrace-dev
+Recommends: libfrt-dev
+Filename: pool/main/focal/tapa_0.0.20201231.1_amd64.deb
+Size: 10990998
+MD5sum: b9ed6f425389642c8c949754287490b2
+SHA1: ddbaac29da36ead8937a1620af157be195bf4bb6
+SHA256: 16f90303f464e5cf4f64386a500d8284163a7bdd35e17532e990cb201e24dd83
+SHA512: 1db3149b3423d3c0c15940f723aa526fc87f3e933f4d1ba2e748c599a9528a7baeb1842811d1f54bcc765486f8d9c03ed460add248ffcf1b56c93c76d93a45d2
+Description: Task-Parallel High-Level Synthesis
+
+Package: tapa
+Architecture: amd64
+Version: 0.0.20210122.1
+Priority: optional
+Section: devel
+Maintainer: Blaok Chi
+Installed-Size: 30186
+Depends: clang-8, g++, iverilog, libgoogle-glog-dev, libboost-coroutine-dev (>= 1.59), libboost-stacktrace-dev
+Recommends: libfrt-dev
+Filename: pool/main/focal/tapa_0.0.20210122.1_amd64.deb
+Size: 10991906
+MD5sum: 8a8be616f11a47cef5361834822d0697
+SHA1: b1512d92ba663bb7efd1208630557677e5cd7705
+SHA256: 07e4442cfc4ed988300bc48c140b1992516a98e13fba4263c831d0a4ffea35fd
+SHA512: 3212dcd0633dc614be1489c110b9b0c9f97a06d5b4368b5ffb3467ca77605673cc0a8721564cbef5bb363cdeaa3cbede6b2dc94e1c840a7446fe298c2bc2ae2d
+Description: Task-Parallel High-Level Synthesis
+
+Package: tapa
+Architecture: amd64
+Version: 0.0.20210128.1
+Priority: optional
+Section: devel
+Maintainer: Blaok Chi
+Installed-Size: 30182
+Depends: clang-8, g++, iverilog, libgoogle-glog-dev, libboost-coroutine-dev (>= 1.59), libboost-stacktrace-dev
+Recommends: libfrt-dev
+Filename: pool/main/focal/tapa_0.0.20210128.1_amd64.deb
+Size: 10991030
+MD5sum: 41e55cddbdc8d6de41fbe5caf0cf437e
+SHA1: d5fef71a8ead9c405c90ee08f8b0c7ea6d5be805
+SHA256: 1580cb7b8aa0a7b2a1946bfc1347a96db546088337579c2c297fefee3a0fe0d4
+SHA512: 48a1818fbabccbc27f68a7f23964bf313a4319c2a3f6be805a54e2e8ba15e2e174148860dcf0af2b67a5e6faded650b42c3b1ed6cf6e2d064e10dc0f5478c094
+Description: Task-Parallel High-Level Synthesis
+
+Package: tapa
+Architecture: amd64
+Version: 0.0.20210305.1
+Priority: optional
+Section: devel
+Maintainer: Blaok Chi
+Installed-Size: 30177
+Depends: clang-8, g++, iverilog, libgoogle-glog-dev, libboost-coroutine-dev (>= 1.59), libboost-stacktrace-dev
+Recommends: libfrt-dev
+Filename: pool/main/focal/tapa_0.0.20210305.1_amd64.deb
+Size: 10989104
+MD5sum: 1a5529a8e8711d4ea7fde141e3469e38
+SHA1: e0e6ed5af4c9b00a3c2cb8bd8e9d51ca905b9066
+SHA256: 01ebdcc272cade9b409e29c028c6f5563214500c88f48eaa0499eafcc320cad6
+SHA512: a591b7bf7d780d52203ee400e9d94c1f2163055a67c969e068a9611df9928a40ab864a702dce87f628e99d4417da10d02a3eec1da5400a1895174801e8bac708
+Description: Task-Parallel High-Level Synthesis
+
+Package: tapa
+Architecture: amd64
+Version: 0.0.20210312.1
+Priority: optional
+Section: devel
+Maintainer: Blaok Chi
+Installed-Size: 29941
+Depends: clang-8, g++, iverilog, libgoogle-glog-dev, libboost-coroutine-dev (>= 1.59), libboost-stacktrace-dev
+Recommends: libfrt-dev
+Filename: pool/main/focal/tapa_0.0.20210312.1_amd64.deb
+Size: 10925328
+MD5sum: 105a5ef10ae0bd6e35bebc47fb1c7a53
+SHA1: d609f00fbc623180eb499ffd88ca016687a0e610
+SHA256: 1d9fc671625c43e9f454a088ad0695dc578162eff20e2ccd9fb7eec239f9c252
+SHA512: a6643f1049612b197b5b4c37162fb05d6f28272eca35c2ea7c04b25baaed17316482d94f583363cd9259167395cbc9510609ca82c1c9d15893a5bd19530ae73f
+Description: Task-Parallel High-Level Synthesis
+
+Package: tapa
+Architecture: amd64
+Version: 0.0.20210313.1
+Priority: optional
+Section: devel
+Maintainer: Blaok Chi
+Installed-Size: 29955
+Depends: clang-8, g++, iverilog, libgoogle-glog-dev, libboost-coroutine-dev (>= 1.59), libboost-stacktrace-dev
+Recommends: libfrt-dev
+Filename: pool/main/focal/tapa_0.0.20210313.1_amd64.deb
+Size: 10928696
+MD5sum: 65d0c975242b241d28c51f978aa49e11
+SHA1: 7f59257f0cf950c1b37a8c3b7c7ba28212e3ac6f
+SHA256: 1ffcc3423df6b1d32798790bb287fc24b4278d862e8c7741049ad6771089d97d
+SHA512: 2981e2ce189743d4a2979b38d7fda62f76ddd07ba7a5d9643581189689b924693bd9faa01899ccec7f3e6b7658d6981e36868d908f3111999346204770339b05
+Description: Task-Parallel High-Level Synthesis
+
+Package: tapa
+Architecture: amd64
+Version: 0.0.20210313.2
+Priority: optional
+Section: devel
+Maintainer: Blaok Chi
+Installed-Size: 29958
+Depends: clang-8, g++, iverilog, libgoogle-glog-dev, libboost-coroutine-dev (>= 1.59), libboost-stacktrace-dev
+Recommends: libfrt-dev
+Filename: pool/main/focal/tapa_0.0.20210313.2_amd64.deb
+Size: 10929354
+MD5sum: 6a6df59d50fb7791b042e224c02b6fff
+SHA1: aabf4d90cfe62281cb6efda59c01b01d6d93e19a
+SHA256: a0770cc30280348819d7489961f4837116d84984f875f3119300d26d810a381e
+SHA512: 87cef1bddbffb09ecf0474ab445076e9a33e612940311456e6e9934c715e942e99a422ec9fa1e45fb5e78b1fa748a8927ed07b03ff3202de5ab878782bd9e1f1
+Description: Task-Parallel High-Level Synthesis
+
+Package: tapa
+Architecture: amd64
+Version: 0.0.20210521.1
+Priority: optional
+Section: devel
+Maintainer: Blaok Chi
+Installed-Size: 29963
+Depends: clang-8, g++, iverilog, libgoogle-glog-dev, libboost-coroutine-dev (>= 1.59), libboost-stacktrace-dev
+Recommends: libfrt-dev
+Filename: pool/main/focal/tapa_0.0.20210521.1_amd64.deb
+Size: 10932684
+MD5sum: 7540b763d4416eea995b6497c23679fb
+SHA1: 9bb094b2c31b5db2369b6bea83b887c158a1ccc4
+SHA256: 79c1705182062b4868a26ce1fa6920d1045d2ad13dbc2b3d5999f7753eff8dc1
+SHA512: ae75953f92ac3e8ccfdadd6e6a3b2f9f981b4aaaf16719d49250719bf0d6cc3c097c896346d5a03f14eca18dbe3deb67534863c38f0286829b738bf760e0d7e5
+Description: Task-Parallel High-Level Synthesis
+
+Package: tapa
+Architecture: amd64
+Version: 0.0.20210801.1
+Priority: optional
+Section: devel
+Maintainer: Blaok Chi
+Installed-Size: 29973
+Depends: clang-8, g++, iverilog, libgoogle-glog-dev, libboost-coroutine-dev (>= 1.59), libboost-stacktrace-dev
+Recommends: libfrt-dev
+Filename: pool/main/focal/tapa_0.0.20210801.1_amd64.deb
+Size: 10935946
+MD5sum: 7b6fe0d554f14a5458b99b00b9e1805e
+SHA1: 7871af24f97e2c44997a93ddbd804f5316a561bd
+SHA256: 31661a3cb05528395ba123b8482da47f0a90215d9b9921b2c03de00680c2aa4e
+SHA512: 1361bbde2b9584900b77c45837d3898ad62b0ee8276829dfaa523d17fe72ceceabb4d84f554a42daba5b4d8e9e5908e45bddcf8471366518738d82ebc6044845
+Description: Task-Parallel High-Level Synthesis
+
+Package: tapa
+Architecture: amd64
+Version: 0.0.20210817.3
+Priority: optional
+Section: devel
+Maintainer: Blaok Chi
+Installed-Size: 29937
+Depends: clang-8, g++, iverilog, libboost-coroutine-dev(>=1.71.0), libboost-stacktrace-dev(>=1.71.0), libfrt-dev, libgoogle-glog-dev
+Filename: pool/main/focal/tapa_0.0.20210817.3_amd64.deb
+Size: 10915562
+MD5sum: e75be51a14bdf0d25aac0b0e82e525fd
+SHA1: e29f025661f4407bb824bcc78d8da99e6eaa88a3
+SHA256: 1cbfc3a195ffadfa7ca7685201992469ff42f539001affeecb8bb0784e1f23ce
+SHA512: c483adb449074a6e35c5a3c05b793cc640c3cd1e17b270513207beba4e763e055f52e6b5cfca011f9c62aec1f39e106fbd827bf64efa99134a1f6391706a0987
+Description: Task-Parallel High-Level Synthesis
+
+Package: tapa
+Architecture: amd64
+Version: 0.0.20211001.1
+Priority: optional
+Section: devel
+Maintainer: Blaok Chi
+Installed-Size: 30033
+Depends: g++, iverilog, libboost-coroutine-dev(>=1.71.0), libboost-stacktrace-dev(>=1.71.0), libfrt-dev, libgoogle-glog-dev
+Filename: pool/main/focal/tapa_0.0.20211001.1_amd64.deb
+Size: 10946336
+MD5sum: 8e1dd145adc97a28d76a17c719b9d542
+SHA1: 786fda1f36a77e9931b0e821b907f1d57478b482
+SHA256: 60d11a24e3a59d8e52e3967eb10d56e0e0d7a0a55c5ecb0c8c447082ce03e2a9
+SHA512: f2fad61d6960fd0c6b427bfb49878676bbb89c63854f31f2cd5b9f19791dbaf6bfe7de6b8545ea7372ad501fcbf403518fd5fd8c1e915fb3395baa2d5d7be047
+Description: Task-Parallel High-Level Synthesis
+
+Package: tapa
+Architecture: amd64
+Version: 0.0.20211016.1
+Priority: optional
+Section: devel
+Maintainer: Blaok Chi
+Installed-Size: 30033
+Depends: g++, iverilog, libboost-coroutine-dev(>=1.71.0), libboost-stacktrace-dev(>=1.71.0), libfrt-dev, libgoogle-glog-dev
+Filename: pool/main/focal/tapa_0.0.20211016.1_amd64.deb
+Size: 10946332
+MD5sum: e9a39819313fa88c6d5577d787df9d5e
+SHA1: 684498ca51231ba3195b4064707aa893d501b7bc
+SHA256: 81025f98475b94ebb88c0240fe145ad1e65bcd695a2c7bfeabf10bf4255e7e49
+SHA512: dc79f4c71068e4c8581038a564a1630154a8f80abefacef1b69683660198ade0e5ea8c115c64cf2e47b98e5be1eef2c2a9e288765a3608891587219bc20198eb
+Description: Task-Parallel High-Level Synthesis
+
+Package: tapa
+Architecture: amd64
+Version: 0.0.20220116.1
+Priority: optional
+Section: devel
+Maintainer: Blaok Chi
+Installed-Size: 30038
+Depends: g++, iverilog, libboost-coroutine-dev(>=1.71.0), libboost-stacktrace-dev(>=1.71.0), libfrt-dev, libgoogle-glog-dev
+Filename: pool/main/focal/tapa_0.0.20220116.1_amd64.deb
+Size: 10948916
+MD5sum: 50e16450422c60f473c397337aeb6295
+SHA1: d15f7adeaff74fb7ef1008670a676d26e5792280
+SHA256: 110650517705f5c8c8d92c96c1c58333f367361c1570b2b3d2f4870680c1db2b
+SHA512: ffd2aa7e9bcec03e64dfc4e81c163de8172c3edcdb57b6f25b1c7788d51fbf7d32e2db55d019e72ad067d4abb92e691e3b73bf6772847aacc5b733aae699c672
+Description: Task-Parallel High-Level Synthesis
+
+Package: tapa
+Architecture: amd64
+Version: 0.0.20220224.1
+Priority: optional
+Section: devel
+Maintainer: Blaok Chi
+Installed-Size: 30028
+Depends: g++, iverilog, libboost-coroutine-dev(>=1.71.0), libboost-stacktrace-dev(>=1.71.0), libfrt-dev, libgoogle-glog-dev
+Filename: pool/main/focal/tapa_0.0.20220224.1_amd64.deb
+Size: 10945852
+MD5sum: 80569f5f959bbed068b5afcda5357a3f
+SHA1: 97134ba98df0cd3a3a376cf89abc437e46faa852
+SHA256: 2d3d4b9ccfd70ab89e94a001cb3a213ed0d2c6e601b1af95f603f23e6190d37c
+SHA512: c083d727f096255d0c159bd34fa36c6f6c6f3679d52943b2cbc2a7f312c56c15f45892b2e29c48ca250859fd6f7a9d72bc3002b42070e17f1f255cafd65a8213
+Description: Task-Parallel High-Level Synthesis
+
+Package: tapa
+Architecture: amd64
+Version: 0.0.20220226.1
+Priority: optional
+Section: devel
+Maintainer: Blaok Chi
+Installed-Size: 30028
+Depends: g++, iverilog, libboost-coroutine-dev(>=1.71.0), libboost-stacktrace-dev(>=1.71.0), libfrt-dev, libgoogle-glog-dev
+Filename: pool/main/focal/tapa_0.0.20220226.1_amd64.deb
+Size: 10945856
+MD5sum: 27b71aef42b1764f9906a76a9963d988
+SHA1: aca2568d951d8e5c806810b500e485d2fb0d5322
+SHA256: 5959a2bf2cdf9e2bfff2fb7872fe872e17962d2de31e0011917bba47277cc166
+SHA512: 5e3a19bd600a42060194e6ba97fd73752893694552a91154d1189f8739a4f3f5e074770f064f2e5fa148af4ee74cae2a1dea4b0c3213849cc858dfb4696cc647
+Description: Task-Parallel High-Level Synthesis
+
+Package: tapa
+Architecture: amd64
+Version: 0.0.20220226.2
+Priority: optional
+Section: devel
+Maintainer: Blaok Chi
+Installed-Size: 30028
+Depends: g++, iverilog, libboost-coroutine-dev(>=1.71.0), libboost-stacktrace-dev(>=1.71.0), libfrt-dev, libgoogle-glog-dev
+Filename: pool/main/focal/tapa_0.0.20220226.2_amd64.deb
+Size: 10945858
+MD5sum: 2e76cecca95aa609a82d9e4d2ab8235c
+SHA1: b3b26e2f67773b1e261ef858b179df775fb1e8d6
+SHA256: d911de750ac38def49b4fb1d7b36b314b4c47d14399c672db9a1f662ee7ac55f
+SHA512: b28133e409cededa203e0971517fa69c1770d6d0759ac9918fd4c7704f976489f5a4411a6f139a27c5f3cc2dec764c65fa17424186f8a191eab9aba9194ac1f0
+Description: Task-Parallel High-Level Synthesis
+
+Package: tapa
+Architecture: amd64
+Version: 0.0.20220227.2
+Priority: optional
+Section: devel
+Maintainer: Blaok Chi
+Installed-Size: 30029
+Depends: g++, iverilog, libboost-coroutine-dev(>=1.71.0), libboost-stacktrace-dev(>=1.71.0), libfrt-dev (>= 0.0.20220220.1), libgoogle-glog-dev
+Filename: pool/main/focal/tapa_0.0.20220227.2_amd64.deb
+Size: 10946190
+MD5sum: af9aa4951b900b53c33b0077e686e1f5
+SHA1: 0695b7cbb537f3707c697b4f2bb1e73febbec0de
+SHA256: 89624d5ddd83c6394cc40d806a230bb4731172e57d3ad35c97ae237d4d53c306
+SHA512: 662b77bb717a56b947d5d1e4de939998fbe5c63be0615065320368084da9253683de44128a28e5e2f04ec9930498eda22befd449e4dce1305a748b4993641bf2
+Description: Task-Parallel High-Level Synthesis
+
+Package: tapa
+Architecture: amd64
+Version: 0.0.20220227.3
+Priority: optional
+Section: devel
+Maintainer: Blaok Chi
+Installed-Size: 30029
+Depends: g++, iverilog, libboost-coroutine-dev(>=1.71.0), libboost-stacktrace-dev(>=1.71.0), libfrt-dev (>= 0.0.20220220.1), libgoogle-glog-dev
+Filename: pool/main/focal/tapa_0.0.20220227.3_amd64.deb
+Size: 10946204
+MD5sum: 51f2a95b7c58c0ef1a8d1db4f358e984
+SHA1: 491cf50d8958bbfc958584334367b9476867d049
+SHA256: 828f0b563319d275d4182524666f37b9ecf64dc3c79a5bd1396a1acb829d46ab
+SHA512: 56efa3ab0c05bbd121e88a137e0d0bbc96d5e3c1a40595a876aebfc6451b67fc7a758541ccae77017e29561a9267a0ce7bbaf5b477b28023e2e014a5d5bab53b
+Description: Task-Parallel High-Level Synthesis
+
+Package: tapa
+Architecture: amd64
+Version: 0.0.20220304.1
+Priority: optional
+Section: devel
+Maintainer: Blaok Chi
+Installed-Size: 30029
+Depends: g++, iverilog, libboost-coroutine-dev(>=1.71.0), libboost-stacktrace-dev(>=1.71.0), libfrt-dev (>= 0.0.20220220.1), libgoogle-glog-dev
+Filename: pool/main/focal/tapa_0.0.20220304.1_amd64.deb
+Size: 10946184
+MD5sum: 396bf1762af23d6137d5f94ee2bc3897
+SHA1: dfe3156afb19a4f2616948cfc76daa22706cb946
+SHA256: 469b70ec9532183680668583b6c32bbe1e531575a20629a15acf08029c1d9247
+SHA512: 2277dacfbb903192afac6ef714765c918b7f0c74d94cf897e1d37b03a8554d15f967de2c286b3a31f61461a65ec28cc0b35c021ae948205a6351d8219ba26ba9
+Description: Task-Parallel High-Level Synthesis
+
+Package: tapa
+Architecture: amd64
+Version: 0.0.20220327.1
+Priority: optional
+Section: devel
+Maintainer: Blaok Chi
+Installed-Size: 30029
+Depends: g++, iverilog, libboost-coroutine-dev(>=1.71.0), libboost-stacktrace-dev(>=1.71.0), libfrt-dev (>= 0.0.20220220.1), libgoogle-glog-dev
+Filename: pool/main/focal/tapa_0.0.20220327.1_amd64.deb
+Size: 10946546
+MD5sum: 6b0989c6cf9c58c9d71198b346524843
+SHA1: cce4cde5e4161c3b6a7f381b228af7937d3143ec
+SHA256: bf090cd085c1493486050df309154684d5b7d27631494dc754c43ebba713cdc1
+SHA512: 438d7373a1f9331ed724d4d2bda7eb64c20d2d3abd88281644dcbf103c7246447cd8119a2aeab50a0c251a59600d6ad79db8a52f58da4ce42fde667d6e7546a2
+Description: Task-Parallel High-Level Synthesis
+
+Package: tapa
+Architecture: amd64
+Version: 0.0.20220404.1
+Priority: optional
+Section: devel
+Maintainer: Blaok Chi
+Installed-Size: 30029
+Depends: g++, iverilog, libboost-coroutine-dev(>=1.71.0), libboost-stacktrace-dev(>=1.71.0), libfrt-dev (>= 0.0.20220403.1), libgoogle-glog-dev
+Filename: pool/main/focal/tapa_0.0.20220404.1_amd64.deb
+Size: 10946666
+MD5sum: eb577da0edfdd6603f5862cea7dd37f6
+SHA1: a5596eeff49316ea65036e8aed7e45137f618174
+SHA256: 574cde9cb6d3a97a22013ec6e60dc118d8458983bf1582fd1c27155258a32f71
+SHA512: 1df61569d244f853b81507e2861f2b316021a0c3b272be202862da96c46a4db115d40911c093db03262d6319d5706c326a4e9619f3c33539aefcf7a746fbf5e3
+Description: Task-Parallel High-Level Synthesis
+
+Package: tapa
+Architecture: amd64
+Version: 0.0.20220427.1
+Priority: optional
+Section: devel
+Maintainer: Blaok Chi
+Installed-Size: 30030
+Depends: g++, iverilog, libboost-coroutine-dev(>=1.71.0), libboost-stacktrace-dev(>=1.71.0), libfrt-dev (>= 0.0.20220403.1), libgoogle-glog-dev
+Filename: pool/main/focal/tapa_0.0.20220427.1_amd64.deb
+Size: 10946794
+MD5sum: 628a478ea6edec848f35dd89bdf13b2d
+SHA1: 928c4ba1a5112a05335a38a7a9c8e2ca616cd09d
+SHA256: 426f10de090b6b94daed1326fe46e76888988fd5e56f99203eea843f4b40a610
+SHA512: d983446e830816dc15878433f90af1498742f12f17524cd714880ad2db7c5a44c0415756874aa762cf4d28091927dd8f74b74da51168a750318c009af66d6d47
+Description: Task-Parallel High-Level Synthesis
+
+Package: tapa
+Architecture: amd64
+Version: 0.0.20220505.1
+Priority: optional
+Section: devel
+Maintainer: Blaok Chi
+Installed-Size: 30065
+Depends: g++, iverilog, libboost-coroutine-dev(>=1.71.0), libboost-stacktrace-dev(>=1.71.0), libfrt-dev (>= 0.0.20220403.1), libgoogle-glog-dev, rsync
+Filename: pool/main/focal/tapa_0.0.20220505.1_amd64.deb
+Size: 10949848
+MD5sum: 6172244977ab18bf0bd50253915b00b0
+SHA1: f58af74ce6b098a81dd77d4dc0218f6543e331e8
+SHA256: c045ada5b15e94d242140b37708688f7c6759061673648bd3f80b3680e8c9329
+SHA512: 320744a2ab7e5c911aebcaccca8830a0d5cb6826c5001db3c88090b6bea00fc5341aea54ce3159fd1e28f21e73bbdaea1e420a7c5fed38600225a06af14069a8
+Description: Task-Parallel High-Level Synthesis
+
+Package: tapa
+Architecture: amd64
+Version: 0.0.20220513.1
+Priority: optional
+Section: devel
+Maintainer: Blaok Chi
+Installed-Size: 145067
+Depends: g++, iverilog, libboost-coroutine-dev(>=1.71.0), libboost-stacktrace-dev(>=1.71.0), libfrt-dev (>= 0.0.20220403.1), libgoogle-glog-dev, rsync
+Filename: pool/main/focal/tapa_0.0.20220513.1_amd64.deb
+Size: 51797680
+MD5sum: 1b486aaf680cf9ef4112b8d8e1819673
+SHA1: 5a268088fb2ff9931d7badb04d0e6a7085f0d0a5
+SHA256: 7c65b1c6688111223a899b1ee2e58bf97d333d543bacff548137accebff724b9
+SHA512: 309971ab877efe2fad4bc78e5f71ef7bcdf55665d7e2497f4d975c5795f950b3a27ce55d9bc45ab015f7352618912509d3eb82343a6a3057accb62fe350a097b
+Description: Task-Parallel High-Level Synthesis
+
+Package: tapa
+Architecture: amd64
+Version: 0.0.20220524.1
+Priority: optional
+Section: devel
+Maintainer: Blaok Chi
+Installed-Size: 145067
+Depends: g++, iverilog, libboost-coroutine-dev(>=1.71.0), libboost-stacktrace-dev(>=1.71.0), libfrt-dev (>= 0.0.20220403.1), libgoogle-glog-dev, rsync
+Filename: pool/main/focal/tapa_0.0.20220524.1_amd64.deb
+Size: 51797668
+MD5sum: fff94cec50e3da3bcadc50fec311b34e
+SHA1: 1c0f6ec414b1ff686c03d6734bcaf890ab1c28af
+SHA256: 6fbb40c41e24fcefecaa852c5c1714a9b99bc78c25a3d15c1d8249b1e51d18ea
+SHA512: 20c5438f0f64adeb8110a64af6ccbbfbdcf5874c0bd1a0c79f6d6f7ad423f306d0abaafa3a785d23f8fad397c6da345347696f2eba7b064f0b6fda22ea1288a3
+Description: Task-Parallel High-Level Synthesis
+
+Package: tapa
+Architecture: amd64
+Version: 0.0.20220525.1
+Priority: optional
+Section: devel
+Maintainer: Blaok Chi
+Installed-Size: 145067
+Depends: g++, iverilog, libboost-coroutine-dev(>=1.71.0), libboost-stacktrace-dev(>=1.71.0), libfrt-dev (>= 0.0.20220403.1), libgoogle-glog-dev, rsync
+Filename: pool/main/focal/tapa_0.0.20220525.1_amd64.deb
+Size: 51797648
+MD5sum: 69c2f4d3f01805735f42c83fcbed2dd3
+SHA1: 96d2e67b0fa4a7f6594ee27dc890e858da5b1ebf
+SHA256: dfa4a12d8f137c4305ef4fd5bfd35900d721de0ee5a20190b0fa07ae0715a9a6
+SHA512: 9c3a504b1fff3e9734d879ffb61febf070a0ee575bff2ecd0bcd7f97669e12f09ede308b99fe14c27986d1ee308341140b7cd3bd7e15ac4cbc712808fb7551db
+Description: Task-Parallel High-Level Synthesis
+
+Package: tapa
+Architecture: amd64
+Version: 0.0.20220607.1
+Priority: optional
+Section: devel
+Maintainer: Blaok Chi
+Installed-Size: 102364
+Depends: g++, iverilog, libboost-coroutine-dev(>=1.71.0), libboost-stacktrace-dev(>=1.71.0), libfrt-dev (>= 0.0.20220403.1), libgoogle-glog-dev, rsync
+Filename: pool/main/focal/tapa_0.0.20220607.1_amd64.deb
+Size: 38826916
+MD5sum: 1efa400c5386f67377e5c42baa333b33
+SHA1: ed3ec806462ac1b5ef8cea3d66a32a5312695a58
+SHA256: 5644763746f48b6f456ccfeaf068396d7c9839c8d4fca8a1ba5adb5c387b59e4
+SHA512: 100ef02910b8835e196fb9789941e7b056f6c2937d7a0cbb9afa3dcf25ce190178c4c60cb46ba25e98b71224fe39869e8f641979a2d450ab371f53177608788c
+Description: Task-Parallel High-Level Synthesis
+
+Package: tapa
+Architecture: amd64
+Version: 0.0.20220807.1
+Priority: optional
+Section: devel
+Maintainer: Blaok Chi
+Installed-Size: 102368
+Depends: g++, iverilog, libboost-coroutine-dev(>=1.71.0), libboost-stacktrace-dev(>=1.71.0), libfrt-dev (>= 0.0.20220403.1), libgoogle-glog-dev, rsync
+Filename: pool/main/focal/tapa_0.0.20220807.1_amd64.deb
+Size: 38827630
+MD5sum: 639b07736bbb9752b8993ddc5f497508
+SHA1: bd6c6db8f13b1b8871b73a74c6c2a9d86100c2e3
+SHA256: 171d2157fd03686461ba01e8cb56475bf8caf761329414e2108ab2f94ef993b8
+SHA512: 7e0b8c4807c80e2935d0ac597051d4bc61f650c4c855b5547f62c43b0c4aa76375445949502d37c4c25f5dfef778ee6c4ae534294c549b6a70191598e03e1edb
+Description: Task-Parallel High-Level Synthesis
+
+Package: tapa
+Architecture: amd64
+Version: 0.0.20221113.1
+Priority: optional
+Section: devel
+Maintainer: Blaok Chi
+Installed-Size: 102368
+Depends: g++, iverilog, libboost-coroutine-dev(>=1.71.0), libboost-stacktrace-dev(>=1.71.0), libfrt-dev (>= 0.0.20220626.1), libgoogle-glog-dev, rsync
+Filename: pool/main/focal/tapa_0.0.20221113.1_amd64.deb
+Size: 38827746
+MD5sum: 8f85132b001ff0d9546bcb92a80c4f89
+SHA1: 83c2d9f4024610a2615935c71175a802bc2ccc3d
+SHA256: 30187aef88f244cf60dafa5f5e49ea836ededa7cf99fadcea342d17c66662722
+SHA512: 888b7a1153c6efae124cc737f293e66664934c54cd64d3b5c2acfc0ddab3ab468a64b88fc5c7b62489c05e7dedf81f1191d5c9e2e5bcbed79dd96ec4e45293d4
+Description: Task-Parallel High-Level Synthesis
+
+Package: tapa
+Architecture: amd64
+Version: 0.0.20240120.1
+Priority: optional
+Section: devel
+Maintainer: Blaok Chi
+Installed-Size: 184117
+Depends: clang-17, g++, iverilog, libboost-coroutine-dev(>=1.71.0), libboost-stacktrace-dev(>=1.71.0), libc++-17-dev, libfrt-dev (>= 0.0.20220626.1), libgoogle-glog-dev, rsync
+Filename: pool/main/focal/tapa_0.0.20240120.1_amd64.deb
+Size: 66641088
+MD5sum: 36cff8c8fc12b8e269d8bdb85ec02559
+SHA1: 5cf84453110e863739daa2ba303ddf313b0f5666
+SHA256: 08aa5feeb9b2c7c3083a08e510eabec0e4f8d15ea86770ea4245908de8787511
+SHA512: 2fc1f0b6367cd00929e334038c10fdde9a26a9dcc920fd34910a2a806aa1bd66197820fa61ad9972817f45042ae86c2eeeb69549d277925fabdb935cc8cf2ba6
+Description: Task-Parallel High-Level Synthesis
+
