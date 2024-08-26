@@ -30,3 +30,19 @@ SHA256: 7ad20123995cdaf29f2403d42f102fed536c56053cbcfe876e422243d8b3ed00
 SHA512: 4ae5955620f7465e9616dd57a75d7a70557c9f2470b63ad30d27e3a8eb09e773488d0c353c05f9342e4e66741ddcfb46122bc8787eef85d9a1c82377461dd3c0
 Description: Task-Parallel High-Level Synthesis
 
+Package: tapa
+Architecture: amd64
+Version: 0.0.20240825.1
+Priority: optional
+Section: devel
+Maintainer: Blaok Chi
+Installed-Size: 177966
+Depends: clang-17, g++, iverilog, libboost-coroutine-dev(>=1.74.0), libboost-stacktrace-dev(>=1.74.0), libc++-17-dev, libfrt-dev (>= 0.0.20220626.1), libgoogle-glog-dev, rsync
+Filename: pool/main/jammy/tapa_0.0.20240825.1_amd64.deb
+Size: 65683526
+MD5sum: 0550751ee6076001cd94505d60864a64
+SHA1: e7b3131e5afd5ab23d01750b15890f94f2b75216
+SHA256: 36f6dea21f4f04d159cef5111c3ec443033bc30274f77cfcf64bd6a7a9f810ae
+SHA512: 4058ec049540a82136040b94b02fefb32ef7d9d7242553b490d4c0ffa8943bac5f4654c00eb9f3e8bf5fa98c749db820e0a3069120bfb1d42dac68dbdd30a970
+Description: Task-Parallel High-Level Synthesis
+

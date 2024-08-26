@@ -6,6 +6,7 @@ usr/include/tapa/base/stream.h				    tapa
 usr/include/tapa/base/tapa.h				    tapa
 usr/include/tapa/base/task.h				    tapa
 usr/include/tapa/base/util.h				    tapa
+usr/include/tapa/host/compat.h				    tapa
 usr/include/tapa/host/coroutine.h			    tapa
 usr/include/tapa/host/logging.h				    tapa
 usr/include/tapa/host/mmap.h				    tapa
